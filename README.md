@@ -1,43 +1,26 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Alejandro Dal Bosco 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 🚀 About Me
-I'm a passionate developer who loves creating innovative solutions and contributing to open source projects. When I'm not coding, you'll find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee ☕.
+I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
 
-🔭 I'm currently working on [Your Current Project]
-🌱 I'm learning [Technology/Framework you're learning]
+🔭 I'm currently working on [Full operative Webpage]
 👯 I'm looking to collaborate on Open Source Projects
-💬 Ask me about JavaScript, Python, React, or anything tech-related
-📫 How to reach me: [your.email@example.com]
-⚡ Fun fact: [Something interesting about you]
+📫 Right now I'm working on personal brand and I still have to develope a professional e-mail: 
+⚡ Fun fact: I'm obsessed with problem solving, not only professionally, but also in my daily basis.
 
 🛠️ Tech Stack
 Languages
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Frontend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Backend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Database & Cloud
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Tools & Others
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+C
+Java
+HTML
+CSS
+Javascript
+SQL
+Python
+ARM Assembly
+
 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
