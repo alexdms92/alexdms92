@@ -5,7 +5,7 @@
 </div>
 
 
-🚀 I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
+🚀 I'm a passionate cybersecurity and programming student who loves creating and optimizing solutions and contributing to open source projects. Always learning.
 
 🔭 Currently working on [Full operative Webpage]
 
