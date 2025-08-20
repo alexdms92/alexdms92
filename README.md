@@ -22,7 +22,7 @@ ARM Assembly
 
 🤝 Connect with Me
 <div align="center">
-  <a href="[https://linkedin.com/in/[alejandro-dal-bosco-martínez-a0a78322b]">
+  <a href="[https://linkedin.com/in/alejandro-dal-bosco-martínez-a0a78322b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:[alexdms92@proton.me]">
