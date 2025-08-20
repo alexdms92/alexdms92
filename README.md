@@ -1,6 +1,6 @@
 Hi there, I'm Alejandro Dal Bosco 👋
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxoem02bHM4cjF3YnpwNDduNzN5b3AweDJqejMwYm9jczk2bGZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NV4cSrRYXXwfUcYnua/giphy.gif" alt="Tom and Jerry Chase" width="500" />
+  <img src="https://blog.davidtorne.com/wp-content/uploads/2021/10/dilbert.png" alt="Dilbert Comic" width="600" height="200" />
 </div>
 
 🚀 I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
