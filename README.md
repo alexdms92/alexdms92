@@ -5,8 +5,11 @@ Hi there, I'm Alejandro Dal Bosco 👋
 🚀 I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
 
 🔭 Currently working on [Full operative Webpage]
-👯 Looking to collaborate on Cybersecurity or Web Tools
+
+👯 Looking to collaborate on Cybersecurity or Websites/Web Applications.
+
 📫 Right now I'm working on personal brand and I still have to develope a professional e-mail: 
+
 ⚡ Fun fact: I'm obsessed with problem solving.
 
 🛠️ Tech Stack
