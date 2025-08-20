@@ -1,6 +1,6 @@
 Hi there, I'm Alejandro Dal Bosco 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Tom and Jerry Chase" width="500" />
 </div>
 
 🚀 I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
