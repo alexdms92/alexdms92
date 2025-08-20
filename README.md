@@ -1,6 +1,10 @@
-                                                                                          Hello there, I'm Alejandro Dal Bosco 👋
 <div align="center">
-  <img src="https://images.firstpost.com/wp-content/uploads/2014/02/dilbert.jpg" alt="Coding GIF" width="600" height="200" />
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2E86AB;">
+    Hi there, I'm Alejandro Dal Bosco 👋
+  </h1>
+</div>
+<div align="center">
+  <img src="https://i0.wp.com/media4.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Coding GIF" width="600" height="200" />
 </div>
 
 
