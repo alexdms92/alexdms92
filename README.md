@@ -1,6 +1,5 @@
-![Banner GIF](https://i.makeagif.com/media/1-17-2023/JfKHrM.gif)
-
 <div align="center">
+  ![Banner GIF](https://i.makeagif.com/media/1-17-2023/JfKHrM.gif)
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2E86AB;">
     Hello there, I'm Alejandro Dal Bosco 👋
   </h1>
