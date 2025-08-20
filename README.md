@@ -1,7 +1,8 @@
 Hi there, I'm Alejandro Dal Bosco 👋
 <div align="center">
-  <img src="https://blog.davidtorne.com/wp-content/uploads/2021/10/dilbert.png" alt="Dilbert Comic" width="600" height="200" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="600" height="200" />
 </div>
+
 
 🚀 I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
 
