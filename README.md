@@ -13,7 +13,7 @@
 
 📫 Right now I'm working on personal brand and I still have to develope a professional e-mail: 
 
-⚡ Fun fact: I'm obsessed with problem solving.
+⚡ Fun fact: I love challenging puzzles.
 
 🛠️ Tech Stack:
 
