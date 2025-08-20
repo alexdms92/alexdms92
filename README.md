@@ -1,10 +1,7 @@
 <div align="center">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2E86AB;">
-    Hi there, I'm Alejandro Dal Bosco 👋
+    Hello there 👋, I'm Alejandro Dal Bosco
   </h1>
-</div>
-<div align="center">
-  <img src="https://i0.wp.com/media4.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Coding GIF" width="600" height="200" />
 </div>
 
 
