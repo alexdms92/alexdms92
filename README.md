@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2E86AB;">
-    Hello there 👋, I'm Alejandro Dal Bosco
+    Hello there, I'm Alejandro Dal Bosco 👋
   </h1>
 </div>
 
