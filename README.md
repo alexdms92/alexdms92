@@ -1,6 +1,6 @@
 Hi there, I'm Alejandro Dal Bosco 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif](https://giphy.com/gifs/HBOMax-tom-and-jerry-hbomax-n-NV4cSrRYXXwfUcYnua" alt="Tom and Jerry Chase" width="500" />
+  <img src="https://giphy.com/gifs/HBOMax-tom-and-jerry-hbomax-n-NV4cSrRYXXwfUcYnu]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxoem02bHM4cjF3YnpwNDduNzN5b3AweDJqejMwYm9jczk2bGZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NV4cSrRYXXwfUcYnua/giphy.gif" width="500" />
 </div>
 
 🚀 I'm a passionate cybersecurity and programming learner who loves creating and optimizing solutions and contributing to open source projects. Always learning.
