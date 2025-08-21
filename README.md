@@ -9,7 +9,7 @@
 
 🚀 I'm a passionate cybersecurity and programming student who loves creating and optimizing solutions and contributing to open source projects. Always learning.
 
-🔭 Currently working on [Full operative Webpage]
+🔭 Currently working on [Full operative Website]
 
 👯 Looking to collaborate on Cybersecurity or Websites/Web Applications.
 
